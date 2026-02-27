@@ -20,7 +20,7 @@ By eliminating non-generalizable reliance on both layer and spectral features, o
 Extensive experiments demonstrate that our approach effectively facilitates visual red-teaming evaluations against closed-source MLLMs.
 
 <p float="left" align="center">
-<img src="Draw.png" width="650" />
+<img src="Draw.pdf" width="650" />
 
 **Figure.** Schematic illustration of the generation and transfer of optimisation-based visual jailbreaking attacks, as well as the feasible regions of such attacks in the input space.
 </p>
